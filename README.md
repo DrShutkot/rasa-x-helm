@@ -18,7 +18,7 @@ This Helm chart provides a quick, production-ready deployment of Rasa X in your 
 ## Installation
 
 ```bash
-helm repo add rasa-x https://rasahq.github.io/rasa-x-helm
+helm repo add rasa-x https://golemxlv.github.io/rasa-x-helm
 helm install <your release name> rasa-x/rasa-x
 ```
 
